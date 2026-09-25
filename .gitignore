@@ -1,0 +1,10 @@
+# Keep private paper drafts and related papers strictly local (not in GitHub repo)
+08_related_papers/
+09_paper_draft/
+
+# Python virtual environments and cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

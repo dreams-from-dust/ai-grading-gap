@@ -1,0 +1,7 @@
+domain,model,n,QWK,Pearson_r,MAE,mean_gap,human_std,ai_std,compression_ratio(AI_std/Human_std)
+essay,llama,1783,-0.028,-0.052,3.616,-2.337,1.539,3.547,2.306
+essay,qwen,1783,0.274,0.351,2.212,-1.069,1.539,2.576,1.675
+essay,claude,1783,0.381,0.657,1.812,-1.789,1.539,1.44,0.936
+shortanswer,llama,646,0.198,0.381,0.816,-0.779,0.725,0.492,0.679
+shortanswer,qwen,646,0.342,0.482,0.526,-0.35,0.725,0.391,0.54
+shortanswer,claude,646,0.657,0.663,0.334,0.09,0.725,0.762,1.052
